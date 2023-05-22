@@ -1,11 +1,11 @@
 {
-  "name": "logseq-todoist-plugin",
-  "version": "5.2.3",
-  "author": "hkgnp",
+  "name": "logseq-todoist-plugin-jacefu",
+  "version": "1.0.0",
+  "author": "JaceFu",
   "description": "Simple Todoist plugin to pull only active tasks from specified project, i.e. Inbox",
   "logseq": {
-    "id": "logseq-todoist-plugin",
-    "title": "logseq-todoist-plugin",
+    "id": "logseq-todoist-plugin-jacefu",
+    "title": "logseq-todoist-plugin-jacefu",
     "icon": "./icon.png"
   },
   "main": "dist/index.html",
